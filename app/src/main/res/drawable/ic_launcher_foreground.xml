@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cork Stopper -->
+    <path
+        android:fillColor="#E09F5E"
+        android:pathData="M48,27 L60,27 C61,27 61.8,27.8 61.8,28.8 L61,33 L47,33 L46.2,28.8 C46.2,27.8 47,27 48,27 Z" />
+
+    <!-- Glass Rim and Neck -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M44,33 L64,33 A2,2 0 0,1 66,35 L66,36 A2,2 0 0,1 64,38 L60,38 L60,44 L66,50 C71,55 72,62 72,70 C72,78 65,83 54,83 C43,83 36,78 36,70 C36,62 37,55 42,50 L48,44 L48,38 L44,38 A2,2 0 0,1 42,36 L42,35 A2,2 0 0,1 44,33 Z" />
+
+    <!-- Sand Layer 1 (Bottom - Blue) -->
+    <path
+        android:fillColor="#2E6BFF"
+        android:pathData="M37.2,68 C37.5,75.5 44,81 54,81 C64,81 70.5,75.5 70.8,68 L37.2,68 Z" />
+
+    <!-- Sand Layer 2 (Middle - Yellow) -->
+    <path
+        android:fillColor="#FFD23F"
+        android:pathData="M37.8,59 L70.2,59 L70.8,68 L37.2,68 Z" />
+
+    <!-- Sand Layer 3 (Top - Coral Pink) -->
+    <path
+        android:fillColor="#FF3B69"
+        android:pathData="M42,50 C44,48 48,44 48,44 L60,44 C60,44 64,48 66,50 C68,52.5 69.5,55.5 70.2,59 L37.8,59 C38.5,55.5 40,52.5 42,50 Z" />
+
+    <!-- Glass Highlights -->
+    <path
+        android:fillColor="#A0FFFFFF"
+        android:pathData="M40,56 C39,60 39,66 40,72 C40.5,75 42,77 44,78 C42.5,76 41.5,73 41.5,69 C41.5,63 42,59 43.5,54 C42.5,54.8 41,55.2 40,56 Z" />
+
+    <!-- Sparkle Stars -->
+    <path
+        android:fillColor="#FFE57F"
+        android:pathData="M77,36 L78.5,40.5 L83,42 L78.5,43.5 L77,48 L75.5,43.5 L71,42 L75.5,40.5 Z" />
+    <path
+        android:fillColor="#FFE57F"
+        android:pathData="M31,43 L32,46 L35,47 L32,48 L31,51 L30,48 L27,47 L30,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,25 L70,27 L72,28 L70,29 L69,31 L68,29 L66,28 L68,27 Z" />
+</vector>
