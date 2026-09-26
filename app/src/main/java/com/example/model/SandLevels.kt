@@ -54,9 +54,9 @@ object SandLevels {
                 goalChests = listOf(SandColor.GREEN, SandColor.BLUE, SandColor.YELLOW, SandColor.RED),
                 bottles = listOf(
                     listOf(SandColor.RED, SandColor.YELLOW, SandColor.BLUE, SandColor.GREEN),
-                    listOf(SandColor.RED, SandColor.BLUE, SandColor.YELLOW, SandColor.RED),
-                    listOf(SandColor.BLUE, SandColor.GREEN, SandColor.BLUE, SandColor.YELLOW),
-                    listOf(SandColor.GREEN, SandColor.BLUE, SandColor.BLUE, SandColor.GREEN),
+                    listOf(SandColor.YELLOW, SandColor.RED, SandColor.GREEN, SandColor.BLUE),
+                    listOf(SandColor.BLUE, SandColor.GREEN, SandColor.RED, SandColor.YELLOW),
+                    listOf(SandColor.GREEN, SandColor.BLUE, SandColor.YELLOW, SandColor.RED),
                     emptyList()
                 )
             )
